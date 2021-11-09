@@ -4,7 +4,7 @@ export default function About (){
         <div>
             <Container>
             <h1>Hi im About!!</h1>
-            <h5>This SPA is developed with next.js and bootstrap to learn about Next, the original project is by Codigo Facilito, so this SPA is 100% responsive and deployed in vercel.</h5>
+            <h5>This is my first App in Next to Learn more about the basic concepts of Next.</h5>
             </Container>
         </div>
     )

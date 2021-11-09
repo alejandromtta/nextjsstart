@@ -17,7 +17,7 @@ export default function Navigation () {
           <Link href="/about">
           <Nav.Link href="#features">About</Nav.Link>
           </Link>
-          <Nav.Link href="#pricing">Pricing</Nav.Link>
+    
         </Nav>
         </Container>
       </Navbar>
